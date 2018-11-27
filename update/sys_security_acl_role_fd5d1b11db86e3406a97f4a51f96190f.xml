@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>trevor.roberts</sys_created_by>
+        <sys_created_on>2018-11-27 18:01:11</sys_created_on>
+        <sys_id>fd5d1b11db86e3406a97f4a51f96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_spt_trevorro_idea.x_snc_spt_trevorro.user</sys_name>
+        <sys_package display_value="Service Portal Training" source="x_snc_spt_trevorro">e68cdf9ddb46e3406a97f4a51f9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Training">e68cdf9ddb46e3406a97f4a51f9619bd</sys_scope>
+        <sys_security_acl display_value="x_snc_spt_trevorro_idea">9d5dd711db86e3406a97f4a51f9619f2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fd5d1b11db86e3406a97f4a51f96190f</sys_update_name>
+        <sys_updated_by>trevor.roberts</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:01:11</sys_updated_on>
+        <sys_user_role display_value="x_snc_spt_trevorro.user" name="x_snc_spt_trevorro.user">ae8c1bdddb46e3406a97f4a51f9619b8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

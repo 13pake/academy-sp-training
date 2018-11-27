@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="idea_description" label="Idea description" language="en" table="x_snc_spt_trevorro_idea">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>idea_description</element>
+            <help/>
+            <hint/>
+            <label>Idea description</label>
+            <language>en</language>
+            <name>x_snc_spt_trevorro_idea</name>
+            <plural>Idea descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>trevor.roberts</sys_created_by>
+            <sys_created_on>2018-11-27 18:06:34</sys_created_on>
+            <sys_id>209edf51db86e3406a97f4a51f961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Idea description</sys_name>
+            <sys_package display_value="Service Portal Training" source="x_snc_spt_trevorro">e68cdf9ddb46e3406a97f4a51f9619bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Portal Training">e68cdf9ddb46e3406a97f4a51f9619bd</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_spt_trevorro_idea_idea_description_en</sys_update_name>
+            <sys_updated_by>trevor.roberts</sys_updated_by>
+            <sys_updated_on>2018-11-27 18:06:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

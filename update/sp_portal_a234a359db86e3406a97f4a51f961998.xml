@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="sc_academy_homepage">ff2fdb91db86e3406a97f4a51f9619e2</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Academy Menu =)">55d5ef99db86e3406a97f4a51f961905</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>trevor.roberts</sys_created_by>
+        <sys_created_on>2018-11-27 18:32:41</sys_created_on>
+        <sys_id>a234a359db86e3406a97f4a51f961998</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Academy Portal</sys_name>
+        <sys_package display_value="Service Portal Training" source="x_snc_spt_trevorro">e68cdf9ddb46e3406a97f4a51f9619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal Training">e68cdf9ddb46e3406a97f4a51f9619bd</sys_scope>
+        <sys_update_name>sp_portal_a234a359db86e3406a97f4a51f961998</sys_update_name>
+        <sys_updated_by>trevor.roberts</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:38:51</sys_updated_on>
+        <theme display_value="Academy Theme">1d352799db86e3406a97f4a51f96194c</theme>
+        <title>Academy Portal</title>
+        <u_available_in_portal_picker>false</u_available_in_portal_picker>
+        <url_suffix>academy</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=a234a359db86e3406a97f4a51f961998"/>
+</record_update>
